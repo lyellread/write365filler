@@ -1,10 +1,10 @@
 # Write 365 Filler
 
-Automatedly fill Write365 Entries. Written by Lyell Read
+Automatedly fill Write365 Entries.
 
 # Notes
 
-- The entries created currently reliable (>80%) pass WordSalad checks.
+- The entries created currently reliable (>90%) pass WordSalad checks.
 - When I took WR121H, an open challenge was issued whereupon one could automatedly fill out entries if they could find out how to. This is my response. Your situation may vary.
 
 # Requirements
